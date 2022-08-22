@@ -1,0 +1,156 @@
+body {
+    
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    padding-right: 7%;
+}
+.txt {
+    display: block;
+    margin-left: 10;
+    margin-right: 10;
+    font-weight: bold;
+    padding-left: 10%;
+  }
+  .txt h3 {
+    color:grey;
+    padding-left: 5%;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-top: -1%;
+  }
+  .txt h2{
+    margin-top: -0.5%;
+
+  }
+  .logo {
+    padding-left: 17%;
+    padding-top: 7%;
+
+  }
+  .img2 {
+    float: right;
+    padding-top: 5%;
+  }
+  
+  .btn {
+    margin-top: 5%;
+    top: 500%; 
+    padding-left: 150;
+  }
+  .btn1 {
+    border: none;
+    width: 200px;
+    height: 70px;
+    background: url(play_store.png);
+    background-size:cover;
+  }
+  .btn2{
+  border: none;
+  width: 200px;
+  height: 70px;
+  margin-left: 20px;
+  background: url(app_store.png);
+  background-size: cover;}
+  
+ 
+   .sec2 {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 100;
+   }
+   .txt1 {
+    font-size:larger;
+    padding-top: 200;
+    padding-left: 100;
+    text-align: center;
+    
+   }
+   .sec2p{
+    padding-left: 0;
+    color: grey;
+    font-size: 28px;
+    font-weight: lighter;
+    margin-top:-1% ;
+   }
+   .sec3 {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 100;
+   }
+   .txt2{
+    font-size: larger;
+    padding-top: 150;
+    padding-left: 50;
+    text-align: center;
+   }
+   .txt2 p{
+    color: grey;
+    font-weight: lighter;
+   
+    font-size: 28px;
+    font-weight: lighter;
+    margin-top:-1% ;
+    text-align: center;
+   }
+   .sec4 {
+    display: flex;
+    margin-top: 5%;
+    margin-left: 100;
+   }
+   .txt3 {
+    font-size:larger;
+    padding-top: 100;
+   
+    text-align: center;
+    
+   }
+   .txt3 p{
+    
+    font-size:100%;
+    color: grey;
+    font-size: 28px;
+    font-weight: lighter;
+   text-align: center;
+   }
+   
+   .sec5 {
+    font-size: 27px;
+    text-align: center;
+    margin-top: 50px;
+   }
+   
+   .btns{
+    margin-left: 34%;
+    margin-top: 30px;
+    
+   }
+   .btn3 {
+    border: none;
+    background: url(play_store.png);
+    background-size: cover;
+    width: 200px;
+    height: 70px;
+   }
+   .btn4 {
+    border: none;
+    width: 200px;
+    height: 70px;
+    background: url(app_store.png);
+    background-size: cover;
+    margin-left: 15px;
+   }
+
+   .p1{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 50px;
+   }
+
+   .highlight{
+    color: rgb(59, 156, 212);
+   }
+   .peratude {
+    margin-top: 15px;
+    margin-left: 47%;
+    width:9%;
+   }
+   
